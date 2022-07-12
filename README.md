@@ -31,13 +31,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import isEmptyString from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-empty-string@v0.0.8-esm/index.mjs';
+import isEmptyString from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-empty-string@esm/index.mjs';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { isObject, isPrimitive } from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-empty-string@v0.0.8-esm/index.mjs';
+import { isObject, isPrimitive } from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-empty-string@esm/index.mjs';
 ```
 
 #### isEmptyString( value )
@@ -100,7 +100,7 @@ bool = isEmptyString.isObject( new String( '' ) );
 <body>
 <script type="module">
 
-import isEmptyString from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-empty-string@v0.0.8-esm/index.mjs';
+import isEmptyString from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-empty-string@esm/index.mjs';
 
 var bool = isEmptyString( '' );
 // returns true
