@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/assert-is-empty-string",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "Test if a value is an empty string.",
   "license": "Apache-2.0",
   "author": {
