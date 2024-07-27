@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/assert-is-empty-string",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Test if a value is an empty string.",
   "license": "Apache-2.0",
   "author": {
@@ -38,11 +38,11 @@
   },
   "dependencies": {
     "@stdlib/assert-is-string": "^0.2.1",
-    "@stdlib/utils-define-nonenumerable-read-only-property": "^0.2.1"
+    "@stdlib/utils-define-nonenumerable-read-only-property": "^0.2.2"
   },
   "devDependencies": {
     "@stdlib/assert-has-symbol-support": "^0.2.1",
-    "@stdlib/assert-has-tostringtag-support": "^0.2.1",
+    "@stdlib/assert-has-tostringtag-support": "^0.2.2",
     "@stdlib/assert-is-boolean": "^0.2.1",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
